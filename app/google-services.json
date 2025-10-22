@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "782214025016",
+    "firebase_url": "https://dispositivos-moveis-2-default-rtdb.firebaseio.com",
+    "project_id": "dispositivos-moveis-2",
+    "storage_bucket": "dispositivos-moveis-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782214025016:android:6d5c828da7f64e8f58bbcd",
+        "android_client_info": {
+          "package_name": "com.example.gabriel_1711"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDljju5oeByilnCkCslprdkmOqjufvTD2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782214025016:android:dd068a2e4d1d40e058bbcd",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDljju5oeByilnCkCslprdkmOqjufvTD2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782214025016:android:afd05da34377ac8f58bbcd",
+        "android_client_info": {
+          "package_name": "com.example.simplelogin1711"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDljju5oeByilnCkCslprdkmOqjufvTD2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -10,7 +10,9 @@ import com.example.myapplication.R
 import com.example.myapplication.databinding.ItemCategoryBinding
 import com.example.myapplication.model.Category
 
-class CategoriesAdapter : ListAdapter<Category, CategoriesAdapter.CategoryViewHolder>(CategoryDiffCallback()) {
+class CategoriesAdapter(
+    private val onItemClick: (Category) -> Unit
+) : ListAdapter<Category, CategoriesAdapter.CategoryViewHolder>(CategoryDiffCallback()) {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CategoryViewHolder {
         val binding = ItemCategoryBinding.inflate(

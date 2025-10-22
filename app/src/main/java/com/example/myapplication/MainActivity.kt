@@ -1,11 +1,8 @@
-package com.example.shoppingapp
+package com.example.myapplication
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
-import androidx.navigation.fragment.NavHostFragment
-import androidx.navigation.ui.setupWithNavController
-import com.example.myapplication.R
 import com.example.myapplication.databinding.ActivityMainBinding
 import com.example.myapplication.fragments.CategoriesFragment
 import com.example.myapplication.fragments.EmptyFragment

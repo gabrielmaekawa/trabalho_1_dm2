@@ -125,10 +125,10 @@ class ItemsFragment : Fragment() {
         val userId = FirebaseAuthService.getUserId() ?: return
 
         val purchase = Purchase(
-            itemId = item.id, // Corresponde ao tipo Int
+            itemId = item.id,
             itemName = item.nome,
-            itemValue = item.preco,      // Corrigido para usar item.preco
-            itemPhoto = item.url_imagem, // Corrigido para usar item.urlImagem
+            itemValue = item.preco,
+            itemPhoto = item.urlImagem,
             userId = userId
         )
 

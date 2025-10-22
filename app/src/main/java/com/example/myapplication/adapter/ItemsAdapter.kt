@@ -39,7 +39,7 @@ class ItemsAdapter(
 
                 Glide.with(root.context)
                     // Ajustado de item.foto para item.urlImagem
-                    .load(item.url_imagem)
+                    .load(item.urlImagem)
                     .placeholder(R.mipmap.ic_launcher)
                     .error(R.mipmap.ic_launcher)
                     .fallback(R.mipmap.ic_launcher)

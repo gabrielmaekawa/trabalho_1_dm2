@@ -46,7 +46,7 @@ object LocalDataProvider {
                 id = 1,
                 nome = "Smartphone Samsung Galaxy S23",
                 preco = 2999.99,
-                url_imagem = "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=400&fit=crop",
+                urlImagem = "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=400&fit=crop",
                 categoria = "Eletrônicos",
                 descricao = "Smartphone premium com câmera de 50MP"
             ),
@@ -54,7 +54,7 @@ object LocalDataProvider {
                 id = 2,
                 nome = "Notebook Dell Inspiron 15",
                 preco = 2499.99,
-                url_imagem = "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=400&fit=crop",
+                urlImagem = "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=400&fit=crop",
                 categoria = "Eletrônicos",
                 descricao = "Notebook com processador Intel i5"
             ),
@@ -62,7 +62,7 @@ object LocalDataProvider {
                 id = 3,
                 nome = "Tênis Nike Air Max 270",
                 preco = 599.99,
-                url_imagem = "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400&h=400&fit=crop",
+                urlImagem = "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400&h=400&fit=crop",
                 categoria = "Roupas",
                 descricao = "Tênis esportivo com tecnologia Air Max"
             ),
@@ -70,7 +70,7 @@ object LocalDataProvider {
                 id = 4,
                 nome = "Camiseta Polo Lacoste",
                 preco = 199.99,
-                url_imagem = "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=400&fit=crop",
+                urlImagem = "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=400&fit=crop",
                 categoria = "Roupas",
                 descricao = "Camiseta polo clássica em algodão"
             ),
@@ -78,7 +78,7 @@ object LocalDataProvider {
                 id = 5,
                 nome = "Livro 'O Hobbit' - J.R.R. Tolkien",
                 preco = 49.99,
-                url_imagem = "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=400&fit=crop",
+                urlImagem = "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=400&fit=crop",
                 categoria = "Livros",
                 descricao = "Clássico da literatura fantástica"
             )

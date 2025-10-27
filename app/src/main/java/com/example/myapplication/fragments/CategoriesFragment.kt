@@ -13,7 +13,6 @@ import com.example.myapplication.adapter.CategoriesAdapter
 import com.example.myapplication.databinding.FragmentCategoriesBinding
 import com.example.myapplication.model.Category
 import com.example.myapplication.network.RetrofitClient
-import com.example.myapplication.utils.LocalDataProvider
 import com.example.myapplication.utils.NetworkUtils
 import kotlinx.coroutines.launch
 

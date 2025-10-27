@@ -43,7 +43,6 @@ class ItemsAdapter(
                     .placeholder(R.mipmap.ic_launcher)
                     .error(R.mipmap.ic_launcher)
                     .fallback(R.mipmap.ic_launcher)
-                    .centerCrop()
                     .into(imageViewProduct)
 
                 root.setOnClickListener {

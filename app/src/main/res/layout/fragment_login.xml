@@ -17,7 +17,7 @@
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:layout_marginTop="32dp"
-            android:src="@mipmap/ic_launcher"
+            android:src="@drawable/ic_person"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -77,6 +77,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
             android:text="Entrar"
+            android:backgroundTint="@android:color/darker_gray"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/textInputLayoutPassword" />
@@ -89,8 +90,9 @@
             android:text="Criar Conta"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
+            android:backgroundTint="@android:color/darker_gray"
             app:layout_constraintTop_toBottomOf="@id/buttonLogin"
-            style="@style/Widget.Material3.Button.OutlinedButton" />
+            />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonLogout"
@@ -102,7 +104,8 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/buttonRegister"
-            style="@style/Widget.Material3.Button.OutlinedButton" />
+            android:backgroundTint="@android:color/darker_gray"
+           />
 
         <TextView
             android:id="@+id/textViewStatus"

@@ -1,242 +1,82 @@
 [
   {
     "id": 1,
-    "nome": "Camiseta de Algodão Pima",
-    "descricao": "Camiseta básica de alta qualidade, feita com o mais puro algodão Pima peruano, garantindo conforto e durabilidade.",
-    "preco": 89.90,
-    "categoria": "Camisetas",
-    "url_imagem": "https://picsum.photos/seed/picsum1/400/400"
+    "nome": "Óleo de Motor Sintético 5W-30",
+    "descricao": "Óleo lubrificante totalmente sintético, ideal para a proteção do motor em diversas condições de temperatura e alto desempenho.",
+    "preco": 45.90,
+    "categoria": "Lubrificantes",
+    "url_imagem": "https://cdn.awsli.com.br/2500x2500/1845/1845490/produto/2699555238a0bc621e3.jpg"
   },
   {
     "id": 2,
-    "nome": "Calça Jeans Slim Fit",
-    "descricao": "Calça jeans com corte moderno e slim fit, perfeita para compor looks casuais e despojados. Tecido com elastano para maior conforto.",
-    "preco": 189.90,
-    "categoria": "Calças",
-    "url_imagem": "https://picsum.photos/seed/picsum2/400/400"
+    "nome": "Jogo de Pastilhas de Freio Dianteiras",
+    "descricao": "Pastilhas de freio em cerâmica de alta performance, garantindo frenagem eficiente e menor desgaste do disco.",
+    "preco": 125.00,
+    "categoria": "Sistema de Freios",
+    "url_imagem": "https://images.tcdn.com.br/img/img_prod/711871/jogo_pastilha_freio_dianteiro_ducato_2018_4647_1_02a8bba3b4268dc36b40c84e1a0ff910.jpg"
   },
   {
     "id": 3,
-    "nome": "Tênis de Corrida Performance",
-    "descricao": "Tênis leve e com amortecimento de alta performance, ideal para corridas e treinos. Design moderno e materiais respiráveis.",
-    "preco": 349.99,
-    "categoria": "Calçados",
-    "url_imagem": "https://picsum.photos/seed/picsum3/400/400"
+    "nome": "Filtro de Óleo do Motor",
+    "descricao": "Filtro de óleo essencial para reter impurezas, protegendo o motor e prolongando a vida útil do lubrificante.",
+    "preco": 28.50,
+    "categoria": "Filtros",
+    "url_imagem": "https://www.tecfil.com.br/wp-content/uploads/2020/06/Tecfil_blog_GALERIA_0000s_0003_G4-1024x683.jpg"
   },
   {
     "id": 4,
-    "nome": "Jaqueta Corta-Vento",
-    "descricao": "Jaqueta corta-vento leve e resistente à água, ideal para atividades ao ar livre. Possui capuz ajustável e bolsos com zíper.",
-    "preco": 249.90,
-    "categoria": "Jaquetas",
-    "url_imagem": "https://picsum.photos/seed/picsum4/400/400"
+    "nome": "Bateria Automotiva 60Ah",
+    "descricao": "Bateria selada de 60 Amperes, com alta durabilidade e pronta para uso, ideal para veículos de passeio.",
+    "preco": 399.90,
+    "categoria": "Elétrica",
+    "url_imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVEWra_MS5sHn1Ny6Sk4mDJ_oMPd6pwnUQwQ&s"
   },
   {
     "id": 5,
-    "nome": "Moletom com Capuz",
-    "descricao": "Moletom macio e confortável com capuz, perfeito para os dias mais frios. Interior flanelado para maior aquecimento.",
-    "preco": 159.90,
-    "categoria": "Moletons",
-    "url_imagem": "https://picsum.photos/seed/picsum5/400/400"
+    "nome": "Pneu Aro 15 185/65 R15",
+    "descricao": "Pneu radial de alta performance, com excelente aderência em piso seco e molhado e baixo ruído.",
+    "preco": 349.00,
+    "categoria": "Rodas e Pneus",
+    "url_imagem": "https://imgs.casasbahia.com.br/1001223048/1xg.jpg"
   },
   {
     "id": 6,
-    "nome": "Bermuda de Sarja",
-    "descricao": "Bermuda casual de sarja com ótimo caimento. Versátil, pode ser usada em diversas ocasiões do dia a dia.",
-    "preco": 119.90,
-    "categoria": "Bermudas",
-    "url_imagem": "https://picsum.photos/seed/picsum6/400/400"
+    "nome": "Amortecedor Dianteiro (Unidade)",
+    "descricao": "Amortecedor a gás pressurizado, proporciona estabilidade e conforto na dirigibilidade do veículo.",
+    "preco": 210.00,
+    "categoria": "Suspensão",
+    "url_imagem": "https://images.tcdn.com.br/img/img_prod/655855/par_amortecedor_suspensao_dianteira_c_mola_pajero_full_2006_102415_1_b1bc3ed80f994d36596ea8f207051bea.jpg"
   },
   {
     "id": 7,
-    "nome": "Camisa Polo",
-    "descricao": "Camisa polo clássica, confeccionada em malha piquet de algodão, proporcionando um visual elegante e confortável.",
-    "preco": 129.90,
-    "categoria": "Camisas",
-    "url_imagem": "https://picsum.photos/seed/picsum7/400/400"
+    "nome": "Vela de Ignição (Jogo com 4)",
+    "descricao": "Jogo de velas de ignição de platina, melhora a queima do combustível e o desempenho do motor.",
+    "preco": 95.50,
+    "categoria": "Sistema de Ignição",
+    "url_imagem": "https://cdn.shopify.com/s/files/1/0767/8246/9395/files/jogo-de-4-velas-de-ignicao-cross-sku_6ffdfe24-d94f-4fad-b2ac-4011a44fbd4d.png?v=1753308773"
   },
   {
     "id": 8,
-    "nome": "Boné Aba Curva",
-    "descricao": "Boné com design clássico de aba curva, ajustável na parte traseira para um encaixe perfeito. Ideal para proteção solar com estilo.",
-    "preco": 59.90,
+    "nome": "Central Multimídia 7 polegadas",
+    "descricao": "Central com tela touchscreen, GPS, Bluetooth e compatibilidade com Android Auto e Apple CarPlay.",
+    "preco": 850.00,
     "categoria": "Acessórios",
-    "url_imagem": "https://picsum.photos/seed/picsum8/400/400"
+    "url_imagem": "https://www.premiershop.com.br/media/catalog/product/cache/a52c95f6355d037509db159936dc104a/1/6/1675780_1.jpg"
   },
   {
     "id": 9,
-    "nome": "Relógio de Pulso Esportivo",
-    "descricao": "Relógio digital multifuncional, resistente à água e com cronômetro. Pulseira de silicone para maior conforto durante atividades físicas.",
-    "preco": 199.90,
-    "categoria": "Acessórios",
-    "url_imagem": "https://picsum.photos/seed/picsum9/400/400"
+    "nome": "Filtro de Ar Condicionado/Cabine",
+    "descricao": "Filtro de carvão ativado, remove odores e partículas, purificando o ar interno do veículo.",
+    "preco": 35.90,
+    "categoria": "Filtros",
+    "url_imagem": "https://images.cws.digital/produtos/gg/98/71/filtro-de-ar-condicionado-para-fiat-toro-18-renegade-7527198-1677874971755.jpg"
   },
   {
     "id": 10,
-    "nome": "Sapato Social de Couro",
-    "descricao": "Sapato social elegante, fabricado em couro legítimo. Ideal para eventos formais e ambiente de trabalho.",
-    "preco": 299.90,
-    "categoria": "Calçados",
-    "url_imagem": "https://picsum.photos/seed/picsum10/400/400"
-  },
-  {
-    "id": 11,
-    "nome": "Meia Esportiva (Kit com 3)",
-    "descricao": "Kit com três pares de meias esportivas de cano médio, com tecnologia de absorção de suor para manter os pés secos.",
-    "preco": 39.90,
-    "categoria": "Acessórios",
-    "url_imagem": "https://picsum.photos/seed/picsum11/400/400"
-  },
-  {
-    "id": 12,
-    "nome": "Calça de Moletom Jogger",
-    "descricao": "Calça de moletom estilo jogger, com punhos elásticos e cordão na cintura para um ajuste perfeito. Conforto e estilo para o dia a dia.",
-    "preco": 149.90,
-    "categoria": "Calças",
-    "url_imagem": "https://picsum.photos/seed/picsum12/400/400"
-  },
-  {
-    "id": 13,
-    "nome": "Cinto de Couro Casual",
-    "descricao": "Cinto casual de couro com fivela de metal escovado. Um acessório versátil que complementa qualquer look.",
-    "preco": 79.90,
-    "categoria": "Acessórios",
-    "url_imagem": "https://picsum.photos/seed/picsum13/400/400"
-  },
-  {
-    "id": 14,
-    "nome": "Camisa Social Slim",
-    "descricao": "Camisa social de manga longa com corte slim, feita de tricoline de algodão. Elegância e conforto para ocasiões especiais.",
-    "preco": 179.90,
-    "categoria": "Camisas",
-    "url_imagem": "https://picsum.photos/seed/picsum14/400/400"
-  },
-  {
-    "id": 15,
-    "nome": "Óculos de Sol Aviador",
-    "descricao": "Clássico modelo aviador com armação de metal e lentes com proteção UV400. Estilo e proteção para seus olhos.",
-    "preco": 129.90,
-    "categoria": "Acessórios",
-    "url_imagem": "https://picsum.photos/seed/picsum15/400/400"
-  },
-  {
-    "id": 16,
-    "nome": "Jaqueta Jeans Clássica",
-    "descricao": "Jaqueta jeans atemporal com lavagem média e bolsos frontais. Uma peça essencial em qualquer guarda-roupa.",
-    "preco": 229.90,
-    "categoria": "Jaquetas",
-    "url_imagem": "https://picsum.photos/seed/picsum16/400/400"
-  },
-  {
-    "id": 17,
-    "nome": "Mochila Urbana",
-    "descricao": "Mochila prática e espaçosa, com compartimento para notebook de até 15 polegadas. Ideal para trabalho, estudo e passeios.",
-    "preco": 199.90,
-    "categoria": "Acessórios",
-    "url_imagem": "https://picsum.photos/seed/picsum17/400/400"
-  },
-  {
-    "id": 18,
-    "nome": "Chinelo Slide",
-    "descricao": "Chinelo slide confortável e moderno, perfeito para momentos de lazer e relaxamento.",
+    "nome": "Kit Palhetas Limpador de Para-brisa",
+    "descricao": "Kit de palhetas dianteiras Aerofit, garante limpeza eficiente e silenciosa do para-brisa.",
     "preco": 69.90,
-    "categoria": "Calçados",
-    "url_imagem": "https://picsum.photos/seed/picsum18/400/400"
-  },
-  {
-    "id": 19,
-    "nome": "Blusa de Tricô",
-    "descricao": "Blusa de tricô com gola redonda, ideal para compor looks de inverno com elegância e conforto.",
-    "preco": 169.90,
-    "categoria": "Blusas",
-    "url_imagem": "https://picsum.photos/seed/picsum19/400/400"
-  },
-  {
-    "id": 20,
-    "nome": "Carteira de Couro",
-    "descricao": "Carteira compacta de couro legítimo, com diversos compartimentos para cartões e documentos.",
-    "preco": 89.90,
     "categoria": "Acessórios",
-    "url_imagem": "https://picsum.photos/seed/picsum20/400/400"
-  },
-  {
-    "id": 21,
-    "nome": "Short de Corrida",
-    "descricao": "Short leve de tecido tecnológico que auxilia na transpiração. Possui forro interno para maior conforto durante a corrida.",
-    "preco": 99.90,
-    "categoria": "Bermudas",
-    "url_imagem": "https://picsum.photos/seed/picsum21/400/400"
-  },
-  {
-    "id": 22,
-    "nome": "Suéter de Lã",
-    "descricao": "Suéter clássico de lã com gola V, perfeito para sobreposições nos dias mais frios.",
-    "preco": 199.90,
-    "categoria": "Blusas",
-    "url_imagem": "https://picsum.photos/seed/picsum22/400/400"
-  },
-  {
-    "id": 23,
-    "nome": "Tênis Casual de Lona",
-    "descricao": "Tênis casual de cano baixo, feito em lona resistente. Um clássico versátil para o dia a dia.",
-    "preco": 159.90,
-    "categoria": "Calçados",
-    "url_imagem": "https://picsum.photos/seed/picsum23/400/400"
-  },
-  {
-    "id": 24,
-    "nome": "Regata Esportiva",
-    "descricao": "Regata com tecido leve e respirável, ideal para treinos intensos na academia ou ao ar livre.",
-    "preco": 69.90,
-    "categoria": "Camisetas",
-    "url_imagem": "https://picsum.photos/seed/picsum24/400/400"
-  },
-  {
-    "id": 25,
-    "nome": "Calça Chino",
-    "descricao": "Calça de sarja modelo chino, uma alternativa elegante ao jeans para looks casuais e de trabalho.",
-    "preco": 179.90,
-    "categoria": "Calças",
-    "url_imagem": "https://picsum.photos/seed/picsum25/400/400"
-  },
-  {
-    "id": 26,
-    "nome": "Bota de Couro",
-    "descricao": "Bota robusta de couro, com solado tratorado, perfeita para um visual urbano e moderno.",
-    "preco": 329.90,
-    "categoria": "Calçados",
-    "url_imagem": "https://picsum.photos/seed/picsum26/400/400"
-  },
-  {
-    "id": 27,
-    "nome": "Gorro de Lã",
-    "descricao": "Gorro de lã canelado para manter a cabeça aquecida com estilo durante o inverno.",
-    "preco": 49.90,
-    "categoria": "Acessórios",
-    "url_imagem": "https://picsum.photos/seed/picsum27/400/400"
-  },
-  {
-    "id": 28,
-    "nome": "Pijama de Algodão",
-    "descricao": "Conjunto de pijama confortável, 100% algodão, para garantir uma ótima noite de sono.",
-    "preco": 139.90,
-    "categoria": "Pijamas",
-    "url_imagem": "https://picsum.photos/seed/picsum28/400/400"
-  },
-  {
-    "id": 29,
-    "nome": "Camisa de Flanela Xadrez",
-    "descricao": "Camisa de flanela com padrão xadrez, ideal para um estilo lenhador, confortável e quente.",
-    "preco": 189.90,
-    "categoria": "Camisas",
-    "url_imagem": "https://picsum.photos/seed/picsum29/400/400"
-  },
-  {
-    "id": 30,
-    "nome": "Pulseira de Couro Trançado",
-    "descricao": "Pulseira masculina de couro trançado com fecho magnético de aço inoxidável.",
-    "preco": 79.90,
-    "categoria": "Acessórios",
-    "url_imagem": "https://picsum.photos/seed/picsum30/400/400"
+    "url_imagem": "https://m.media-amazon.com/images/I/41nOwbL+jSL._AC_UF1000,1000_QL80_.jpg"
   }
 ]
